@@ -151,7 +151,7 @@ export function Contact() {
   const socialLinks = [
     { icon: Github, href: 'https://github.com/mavingogo', label: 'GitHub' },
     { icon: Linkedin, href: 'https://www.linkedin.com/in/mavin-gogo', label: 'LinkedIn' },
-    { icon: MessageCircle, href: 'https://wa.me/254746781552', label: 'WhatsApp' },
+    { icon: MessageCircle, href: 'https://wa.me/254781304308', label: 'WhatsApp' },
   ];
 
   return (
