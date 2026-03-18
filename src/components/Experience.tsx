@@ -16,7 +16,7 @@ const experiences: Experience[] = [
   {
     title: 'Bachelor of Science in Information Technology',
     organization: 'Multimedia University',
-    period: '2021 - Present',
+    period: '2025 - Present',
     location: 'Nairobi, Kenya',
     type: 'education',
     description: 'Pursuing a comprehensive IT degree with focus on software development, data science, and modern web technologies.',
@@ -30,9 +30,9 @@ const experiences: Experience[] = [
   {
     title: 'Software Development Training',
     organization: 'eMobilis Technology Training Institute',
-    period: '2022 - 2023',
+    period: '2025 - 2026',
     location: 'Nairobi, Kenya',
-    type: 'work',
+    type: 'learning',
     description: 'Intensive software development bootcamp focusing on modern web technologies, mobile development, and industry best practices.',
     highlights: [
       'Completed full-stack development curriculum (Django, React, Python)',
@@ -44,9 +44,9 @@ const experiences: Experience[] = [
   {
     title: 'IT Student & Research Assistant',
     organization: 'Multimedia University',
-    period: '2023 - Present',
+    period: '2025 - Present',
     location: 'Nairobi, Kenya',
-    type: 'work',
+    type: 'Research',
     description: 'Supporting research initiatives in educational technology and data-driven learning systems.',
     highlights: [
       'Developing data analysis tools for academic research',
