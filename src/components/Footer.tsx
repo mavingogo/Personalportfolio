@@ -14,7 +14,7 @@ export function Footer() {
     { icon: Github, href: 'https://github.com/mavingogo', label: 'GitHub' },
     { icon: Linkedin, href: 'https://www.linkedin.com/in/mavin-gogo-62bbb2346', label: 'LinkedIn' },
     { icon: MessageCircle, href: 'https://wa.me/254781304308', label: 'WhatsApp' },
-    { icon: Mail, href: 'mailto:mavingogo@gmail.com', label: 'Email' },
+    { icon: Mail, href: 'mailto:mavingogo065@gmail.com', label: 'Email' },
   ];
 
   const quickLinks = ['Home', 'Skills', 'Projects', 'Experience', 'Contact'];

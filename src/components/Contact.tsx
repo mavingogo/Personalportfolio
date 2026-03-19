@@ -100,7 +100,7 @@ export function Contact() {
     );
 
     // Open default email client with pre-filled information
-    window.location.href = `mailto:mavingogo@gmail.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:mavingogo065@gmail.com?subject=${subject}&body=${body}`;
 
     // Simulate submission delay for UX
     setTimeout(() => {
@@ -131,8 +131,8 @@ export function Contact() {
     {
       icon: Mail,
       label: 'Email',
-      value: 'mavingogo@gmail.com',
-      href: 'mailto:mavingogo@gmail.com',
+      value: 'mavingogo065@gmail.com',
+      href: 'mailto:mavingogo065@gmail.com',
     },
     {
       icon: Phone,
