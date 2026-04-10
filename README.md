@@ -1,7 +1,7 @@
 
   # Personal Portfolio
 
-  This is a code bundle for Personal Portfolio. The original project is available at https://www.figma.com/design/vjRdjZIQM7Ts3M6KeN5zFW/Personal-Portfolio.
+  This is a code bundle for Personal Portfolio.
 
   ## Running the code
 
